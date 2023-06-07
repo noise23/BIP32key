@@ -1,2 +1,10 @@
 # BIP32key
- BIP32 EXT_SECRET_KEY, EXT_PUBLIC_KEY generator
+**********************************************
+BIP32 EXT_SECRET_KEY, EXT_PUBLIC_KEY generator
+**********************************************
+
+Usage:
+$ python3 prepend_bytes.py leading-symbols 74
+
+Example:
+$ python3 prepend_bytes.py xpub 74
